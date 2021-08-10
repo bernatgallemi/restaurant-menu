@@ -1,0 +1,7 @@
+#next dev folders
+node_modules/
+.next/*
+yarn-error.log
+
+#editor backup files
+*~
